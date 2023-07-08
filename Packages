@@ -373,13 +373,16 @@ Filename: ./debs/AH4MaiAPHack.deb
 
 Package: BIELIOS
 Name: BIELIOS
-Version: 1.0
-Section: Tweaks
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Depends: mobilesubstrate, ws.hbang.common
-Author: biel
-Maintainer: biel
-Description: mod free fire
-Size: 376630
+Description: BIELIOS MOD FREE FIRE
+Maintainer: AH4Ma
+Author: Biel
+Section: Hacks
+Version: 1.0
+Size: 1092354 
+Installed-Size: 100kb
+MD5sum: 0edf2be0d3be522aa40140033dab1d33
 Filename: ./debs/BielIos.deb
-Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=SocialDownloader
+Tag: purpose::extension
+Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=iGameGuardian
