@@ -371,8 +371,8 @@ Depiction: https://ahmad4maylod.github.io/Ahmad4MayLod/depictions/?p=AH4MaHack
 MD5sum: c979e6d7cd9c2b761dbbf38d61539e88
 Filename: ./debs/AH4MaiAPHack.deb
 
-Package: BIELIOS
-Name: BIELIOS
+Package: com.biel.ios
+Name: Biel IOS
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: BIELIOS MOD FREE FIRE
