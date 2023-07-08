@@ -1,0 +1,14 @@
+Package: BIELIOS
+Name: BIEL IOS
+Version: 1.2-1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common
+Installed-Size: 219
+Author: gabriel
+Maintainer: gabriel
+Description: mod menu free fire
+Size: 219000
+MD5sum: 64a2806148602bc9b272b52036633ae0
+Filename: ./debs/BIELIOS.deb
+Depiction: 
